@@ -1,0 +1,7 @@
+{
+    "env":{
+        "mongoDatabase":"graphql",
+        "mongoUserName":"newUser",
+        "mongoUserPassword":"Zhza7gY9bpyyDSHm"
+    }
+}
